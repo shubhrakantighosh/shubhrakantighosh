@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shubhra Kanti Ghosh</h1>
 <h3 align="center">A passionate I am full stack developer from India</h3>
-<img align="right" alt="Coding" width="160" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhrakantighosh&label=Profile%20views&color=0e75b6&style=flat" alt="shubhrakantighosh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhrakantighosh" alt="shubhrakantighosh" /></a> </p>
 
 - 🌱 I’m currently learning **Java**
 
