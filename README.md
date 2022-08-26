@@ -8,9 +8,9 @@
 
 - 👨‍💻 All of my projects are available at [https://www.kickresume.com/cv/shubhra-ghosh/](https://www.kickresume.com/cv/shubhra-ghosh/)
 
-- 📫 How to reach me **shubhrakantighosh1996@gmail.com**
+- 📫 Reach me **shubhrakantighosh1996@gmail.com**
 
-- 📄 Know about my experiences [https://www.kickresume.com/cv/a7KJa/](https://www.kickresume.com/cv/a7KJa/)
+- 📄 Resume [https://www.kickresume.com/cv/a7KJa/](https://www.kickresume.com/cv/a7KJa/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
