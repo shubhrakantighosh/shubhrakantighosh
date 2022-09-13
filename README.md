@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **MySql**
 
-- 👨‍💻 All of my projects are available at [https://www.kickresume.com/cv/shubhra-ghosh/](https://www.kickresume.com/cv/shubhra-ghosh/)
+- 👨‍💻 <a href="https://shubhrakantighosh.netlify.app/">Portfolio</a>
 
 - 📫 Reach me **shubhrakantighosh1996@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/1lslaoMriO5wec11PPB0x3KNcvX9FcCsm/view?usp=sharing/)
+- 📄 <a href="https://drive.google.com/file/d/1lslaoMriO5wec11PPB0x3KNcvX9FcCsm/view?usp=sharing">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
