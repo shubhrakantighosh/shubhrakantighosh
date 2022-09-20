@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MySql**
 
-- 👨‍💻 <a href="https://shubhrakantighosh.netlify.app/">Portfolio</a>
+- 👨‍💻 <a href="https://shubhrakantighosh.com/">Portfolio</a>
 
 - 📫 Reach me **shubhrakantighosh1996@gmail.com**
 
