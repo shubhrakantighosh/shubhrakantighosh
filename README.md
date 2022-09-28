@@ -19,6 +19,8 @@
  
  <a href="https://www.linkedin.com/in/shubhrakantighosh" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhrakanti_ghosh" height="30" width="40" /></a>
 </p>
+
+</br>
   
 <a href="https://instagram.com/shubhrakanti_ghosh" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubhrakanti_ghosh" height="30" width="40" /></a>
 </p>
