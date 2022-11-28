@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MySql**
 
-- 👨‍💻 <a href="https://shubhrakantighosh.com/">Portfolio</a>
+- 👨‍💻 <a href="[https://shubhrakantighosh.com/](https://shubhrakantighosh.github.io)">Portfolio</a>
 
 - 📫 Reach me **shubhrakantighosh1996@gmail.com**
 
