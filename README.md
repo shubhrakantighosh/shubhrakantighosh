@@ -5,8 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhrakantighosh&label=Profile%20views&color=0e75b6&style=flat" alt="shubhrakantighosh" /> </p>
 
-<!-- - 🌱 I’m currently learning **MySql**
-
+- 🌱 I’m currently learning **Golang**
+<!-- 
 - 👨‍💻 <a href="https://shubhrakantighosh.github.io">Portfolio</a>
 
 - 📫 Reach me **shubhrakantighosh1996@gmail.com**
