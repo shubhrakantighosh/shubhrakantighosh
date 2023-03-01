@@ -1,4 +1,4 @@
-<img alt="Coding" src="https://geekflare.com/wp-content/uploads/2021/12/Master-Java.png">
+<img alt="Coding" src="https://www.filepicker.io/api/file/O8dz87hXSheB05h3nO4M" >
 <h1 align="center">Hi 👋, I'm Shubhra Kanti Ghosh</h1>
 <h3 align="center">I am Back-end developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
@@ -41,5 +41,5 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhrakantighosh&show_icons=true&locale=en&layout=compact" alt="shubhrakantighosh" /></p>
 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Shubhra"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Shubhra" /></a></p><br><br>
+<!-- <h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/Shubhra"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Shubhra" /></a></p><br><br> -->
